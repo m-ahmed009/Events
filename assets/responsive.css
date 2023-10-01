@@ -1,0 +1,93 @@
+@media (max-width: 767px) {
+    .navbar-brand i {
+      font-size: 28px;
+      margin-right: 6px;
+    }
+
+    .navbar-nav .nav-link {
+      font-size: 14px;
+    }
+
+    .banner {
+      height: 300px;
+    }
+
+    .banner-heading {
+      font-size: 24px;
+    }
+
+    .banner-subheading {
+      font-size: 16px;
+    }
+
+    .section-row {
+      padding: 20px;
+    }
+
+    .section-text {
+      font-size: 16px;
+    }
+
+    .testimonial-item {
+      padding: 20px;
+    }
+
+    .testimonial-image {
+      width: 60px;
+      height: 60px;
+    }
+
+    .testimonial-text {
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .testimonial-author {
+      font-size: 14px;
+    }
+
+    .full-section {
+      height: 60vh;
+    }
+
+    .image-container {
+      width: 200px;
+      height: 200px;
+    }
+
+    .inner-image {
+      width: 300px;
+      height: 400px;
+      left: 110%;
+    }
+
+    .footer-logo {
+      font-size: 20px;
+    }
+
+    .footer-links a {
+      font-size: 12px;
+    }
+
+    .social-icons li {
+      margin-right: 15px;
+    }
+
+    .social-icons a {
+      font-size: 16px;
+    }
+  }
+    /* Media query for small devices */
+    @media (max-width: 767px) {
+      .section-row {
+        width: 100%; /* Make the columns take up the full width on small devices */
+        margin-bottom: 20px; /* Add some spacing between rows */
+      }
+    }
+
+  
+  
+  
+  
+  
+  
